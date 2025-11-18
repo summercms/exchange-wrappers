@@ -73,7 +73,7 @@
     "eslint-plugin-import": "^2.20.0",
     "ethlint": "^1.2.5",
     "ganache-cli": "6.8.2",
-    "mocha": "^7.0.0",
+    "mocha": "^11.7.5",
     "solidity-coverage": "^0.7.1",
     "solium": "^1.2.5",
     "truffle": "^5.1.19",
